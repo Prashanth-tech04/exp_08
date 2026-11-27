@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main(){
-	printf("Libreary management system");
-	printf("Book registration module");
-	printf("Book search module");
-	printf("Book issue functionality");
+	printf("Libreary management system\n");
+	printf("Book registration module\n");
+	printf("Book search module\n");
+	printf("Book issue functionality\n");
+	printf("book return");
 	return 0
      }
